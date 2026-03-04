@@ -60,8 +60,6 @@ Traffic volume or urban activity may be increasing steadily, contributing to ris
 
 Majority of crashes are non-fatal.
 
-26% of crashes result in injury.
-
 Fatal crashes are rare but operationally significant.
 
 Policy focus should extend beyond fatalities to injury reduction strategies.
